@@ -4,11 +4,17 @@
   background-repeat: no-repeat;
   height: 200px;
   padding: 10px;
+  margin: 50px;
 }
 .heading img
 {
   width: 100%;
   height: 200px;
+}
+
+h1
+{
+  color: white;
 }
 
 body {
