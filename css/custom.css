@@ -2,6 +2,10 @@
 .heading {
   background-image: url(../img/heading.jpg);
 }
+.heading img
+{
+  width: 100%;
+}
 
 body {
   background-image: url(../img/metal.jpg);
