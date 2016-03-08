@@ -1,8 +1,8 @@
 /*your custom CSS here*/
 h1 {
-  background: url(img/heading.jpg);
+  background: url(/img/heading.jpg);
 }
 
 body {
-  background: url(img/heading.jpg);
+  background: url(/img/heading.jpg);
 }
