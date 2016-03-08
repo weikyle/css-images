@@ -1,7 +1,7 @@
 /*your custom CSS here*/
 .heading {
   background-image: url(../img/heading.jpg);
-  background-image: url(../img/heading.jpg), linear-gradient(#03396C, #005B96);
+  background-image: url(../img/heading.jpg), linear-gradient(#005B96, #03396C);
   background-repeat: no-repeat;
   height: 400px;
   padding: 10px;
