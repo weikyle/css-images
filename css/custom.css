@@ -3,6 +3,7 @@
   background-image: url(../img/heading.jpg);
   background-repeat: no-repeat;
   height: 200px;
+  padding: 10px;
 }
 .heading img
 {
